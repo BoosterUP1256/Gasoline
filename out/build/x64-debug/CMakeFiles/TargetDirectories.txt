@@ -1,0 +1,12 @@
+C:/dev/Gasoline/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/dev/Gasoline/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/dev/Gasoline/out/build/x64-debug/Testbed/CMakeFiles/Testbed.dir
+C:/dev/Gasoline/out/build/x64-debug/Testbed/CMakeFiles/edit_cache.dir
+C:/dev/Gasoline/out/build/x64-debug/Testbed/CMakeFiles/rebuild_cache.dir
+C:/dev/Gasoline/out/build/x64-debug/Testbed/src/CMakeFiles/edit_cache.dir
+C:/dev/Gasoline/out/build/x64-debug/Testbed/src/CMakeFiles/rebuild_cache.dir
+C:/dev/Gasoline/out/build/x64-debug/Testbed/GasEngine/CMakeFiles/GasEngine.dir
+C:/dev/Gasoline/out/build/x64-debug/Testbed/GasEngine/CMakeFiles/edit_cache.dir
+C:/dev/Gasoline/out/build/x64-debug/Testbed/GasEngine/CMakeFiles/rebuild_cache.dir
+C:/dev/Gasoline/out/build/x64-debug/Testbed/GasEngine/src/CMakeFiles/edit_cache.dir
+C:/dev/Gasoline/out/build/x64-debug/Testbed/GasEngine/src/CMakeFiles/rebuild_cache.dir

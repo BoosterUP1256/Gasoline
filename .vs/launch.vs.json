@@ -1,0 +1,19 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "dll",
+      "exe": "",
+      "project": "CMakeLists.txt",
+      "projectTarget": "GasEngine.dll (Testbed\\GasEngine\\GasEngine.dll)",
+      "name": "GasEngine.dll (Testbed\\GasEngine\\GasEngine.dll)"
+    },
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "Testbed.exe (out\\Testbed.exe)",
+      "name": "Testbed.exe (out\\Testbed.exe)"
+    }
+  ]
+}

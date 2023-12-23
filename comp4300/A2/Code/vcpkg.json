@@ -1,0 +1,8 @@
+{
+  "name": "a2",
+  "version": "1.0",
+  "dependencies": [
+    "sfml",
+    "imgui-sfml"
+  ]
+}

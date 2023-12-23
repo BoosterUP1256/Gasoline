@@ -1,0 +1,12 @@
+# ninja log v5
+6	580	7191166499070534	Testbed/GasEngine/CMakeFiles/GasEngine.dir/src/somecode.cpp.obj	62a223fc940572ab
+2	195	7191166495224470	Testbed/CMakeFiles/Testbed.dir/src/main.cpp.obj	4fecc2903cd121db
+580	691	7191166499896518	Testbed/GasEngine/GasEngine.dll	cefe1484d504b3af
+15	289	7191166499070534	Testbed/GasEngine/GasEngine.lib	7067b03197c7d377
+6	133	7191819611953006	build.ninja	748333bda4fd2dc6
+691	793	7191166500967922	Testbed/Testbed.exe	a1ff86d8f9709662
+15	289	7191166499070534	out/GasEngine.dll	7067b03197c7d377
+10	18	0	clean	8c45b54705a541e8
+260	378	7191198860585427	out/Testbed.exe	ce95c134c0e52ba1
+8	296	7191166499070534	out/GasEngine.dll	7067b03197c7d377
+8	296	7191166499070534	Testbed/GasEngine/GasEngine.lib	7067b03197c7d377
