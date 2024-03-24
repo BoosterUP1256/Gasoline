@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "A3.exe (A3\\src\\A3.exe)",
+      "name": "A3.exe (A3\\src\\A3.exe)"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+# ninja log v5
+2	54	7251582636238008	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	b711d7496b6ab54c
+2	54	7251582636238008	C:/dev/Gasoline/comp4300/A3/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	b711d7496b6ab54c
+7525	7562	7251582711341242	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	b404263d54ce0621
+55	7487	7251582710596076	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	9f0dc4e47b649d8f
+7487	7525	7251582710966114	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	6b05502c5d90281c
+55	7487	7251582710596076	C:/dev/Gasoline/comp4300/A3/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	9f0dc4e47b649d8f
+7487	7525	7251582710966114	C:/dev/Gasoline/comp4300/A3/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	6b05502c5d90281c
+7525	7562	7251582711341242	C:/dev/Gasoline/comp4300/A3/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	b404263d54ce0621
+7562	7601	7251582711731742	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	9215711ba5623a6c
+7562	7601	7251582711731742	C:/dev/Gasoline/comp4300/A3/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	9215711ba5623a6c
+7601	7638	7251582712105255	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	28500da24a5b2042
+7601	7638	7251582712105255	C:/dev/Gasoline/comp4300/A3/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	28500da24a5b2042
+7638	7677	7251582712490947	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	e5be49423099b09d
+7638	7677	7251582712490947	C:/dev/Gasoline/comp4300/A3/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	e5be49423099b09d
+7677	7713	7251582712851082	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	b02cd9f2b1ecb7d
+7677	7713	7251582712851082	C:/dev/Gasoline/comp4300/A3/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	b02cd9f2b1ecb7d
+7713	7766	7251582713376237	CMakeFiles/sfml-populate-complete	be18db54b2b214aa
+7713	7766	7251582713376237	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	be18db54b2b214aa
+7713	7766	7251582713376237	C:/dev/Gasoline/comp4300/A3/out/build/x64-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	be18db54b2b214aa
+7713	7766	7251582713376237	C:/dev/Gasoline/comp4300/A3/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	be18db54b2b214aa

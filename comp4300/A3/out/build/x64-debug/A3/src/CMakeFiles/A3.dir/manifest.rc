@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/dev/Gasoline/comp4300/A3/out/build/x64-debug/A3/src/CMakeFiles/A3.dir/embed.manifest"
